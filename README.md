@@ -437,6 +437,7 @@ KESCo is the primary electricity distribution utility for Kanpur city, operating
 <br/>
 
 <picture>
+  ![GitHub Contribution Snake](https://raw.githubusercontent.com/chinmay2705r/chinmay2705r/output/github-contribution-grid-snake.svg)
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinmay2705r/chinmay2705r/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinmay2705r/chinmay2705r/output/github-contribution-grid-snake.svg"/>
   <img alt="contribution-snake" src="https://raw.githubusercontent.com/chinmay2705r/chinmay2705r/output/github-contribution-grid-snake-dark.svg" width="100%"/>
