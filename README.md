@@ -42,14 +42,12 @@
 </div>
 
 ```typescript
-
   Name        : Chinmay Kumar Gupta
   University  : Harcourt Butler Technical University (HBTU), Kanpur
   Degree      : B.Tech — Computer Science & Engineering (2023–2027)
   GATE        : GATE 2026 Qualified — Computer Science & Engineering
   Internship  : Data Analytics Intern @ KESCo Kanpur (June 2026 – Present)
   location    : Kanpur, Uttar Pradesh, India
-};
 ```
 
 <br/>
