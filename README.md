@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=140&section=header&text=Chinmay%20Kumar%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20ML%20Engineer%20%7C%20DSA%20Practitioner&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=140&section=header&text=Chinmay%20Kumar%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -37,32 +37,24 @@
 
 <div align="center">
 
-## `{ about_me }`
+# About Me
 
 </div>
 
 ```typescript
-const chinmay: Engineer = {
-  name        : "Chinmay Kumar Gupta",
-  role        : ["Data Engineer", "ML Engineer", "DSA Practitioner"],
-  university  : "Harcourt Butler Technical University (HBTU), Kanpur",
-  degree      : "B.Tech — Computer Science & Engineering (2023–2027)",
-  gate        : "GATE 2026 Qualified — Computer Science & Engineering",
-  internship  : "Data Analytics Intern @ KESCo Kanpur (June 2026 – Present)",
-  dsa         : "100+ problems — LeetCode & Striver SDE Sheet in C++",
-  location    : "Kanpur, Uttar Pradesh, India",
-  philosophy  : "The goal is not to build a model that works. It is to build one that tells you something true."
+
+  Name        : Chinmay Kumar Gupta
+  University  : Harcourt Butler Technical University (HBTU), Kanpur
+  Degree      : B.Tech — Computer Science & Engineering (2023–2027)
+  GATE        : GATE 2026 Qualified — Computer Science & Engineering
+  Internship  : Data Analytics Intern @ KESCo Kanpur (June 2026 – Present)
+  location    : Kanpur, Uttar Pradesh, India
 };
 ```
 
 <br/>
 
 I am a Computer Science undergraduate who builds at the intersection of **data, machine learning, and analytical engineering**. My work focuses on transforming raw operational data into decisions — through rigorous exploratory analysis, interpretable predictive models, and dashboards that communicate findings with clarity.
-
-I have engineered end-to-end ML classification pipelines achieving **94%+ accuracy**, analysed **149,116 real transactions** to surface business-critical patterns, and built KPI dashboards that answer real operational questions for a public sector utility. I practice DSA daily in C++, have cleared GATE 2026 in Computer Science, and hold positions of leadership across three councils at HBTU.
-
-I believe interpretability matters more than accuracy. Feature importance at 44% for a single variable is more valuable than a 99% black-box score — because it tells you exactly where to intervene.
-
 <br/>
 
 <div align="center">
@@ -126,13 +118,8 @@ I believe interpretability matters more than accuracy. Feature importance at 44%
 
 ### — DSA & Competitive Programming —
 
-![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Solved%20%7C%20C%2B%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Solved%20%7C%20C%2B%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Striver Sheet](https://img.shields.io/badge/Striver%20SDE%20Sheet-In%20Progress-6D28D9?style=for-the-badge&logoColor=white)
-![Arrays](https://img.shields.io/badge/Arrays-Strings-7C3AED?style=flat-square)
-![LinkedList](https://img.shields.io/badge/Linked%20Lists-Stacks-8B5CF6?style=flat-square)
-![Trees](https://img.shields.io/badge/Trees-Binary%20Search-4F46E5?style=flat-square)
-![Hashing](https://img.shields.io/badge/Hashing-Sorting-3730A3?style=flat-square)
-![DP](https://img.shields.io/badge/Dynamic%20Programming-Learning-6D28D9?style=flat-square)
 
 </div>
 
@@ -142,7 +129,7 @@ I believe interpretability matters more than accuracy. Feature importance at 44%
 
 <div align="center">
 
-## `{ ai_ml_expertise }`
+# AI_ML_Expertise
 
 </div>
 
@@ -169,7 +156,7 @@ I believe interpretability matters more than accuracy. Feature importance at 44%
 
 <div align="center">
 
-## `{ featured_projects }`
+# Featured_Projects
 
 </div>
 
@@ -258,7 +245,7 @@ A scatter plot of sales versus profit, coloured by discount level, revealed a cl
 
 <div align="center">
 
-## `{ experience }`
+# Experience 
 
 </div>
 
@@ -297,7 +284,7 @@ KESCo is the primary electricity distribution utility for Kanpur city, operating
 
 <div align="center">
 
-## `{ achievements }`
+# Achievements
 
 <br/>
 
@@ -309,7 +296,6 @@ KESCo is the primary electricity distribution utility for Kanpur city, operating
 | 📰 **PR Head — HBTU Herald** | University Annual Magazine — end-to-end publicity, stakeholder coordination, campus outreach |
 | 🎭 **Event Management Head** | Literary Sub Council — organised Hunkar'25 & Hunkar'26 + Kavya Sandhya |
 | 🏆 **Head Organiser — Aagaz'25** | Sports Sub Council — led hospitality operations for annual sports fest |
-| 🏐 **Vice Captain — Kabaddi** | Official HBTU Kabaddi Team — intercollegiate representative |
 
 </div>
 
@@ -348,7 +334,7 @@ KESCo is the primary electricity distribution utility for Kanpur city, operating
 
 <div align="center">
 
-## `{ coding_profiles }`
+# Coding_Profiles
 
 <br/>
 
@@ -366,138 +352,39 @@ KESCo is the primary electricity distribution utility for Kanpur city, operating
 
 <div align="center">
 
-## `{ github_analytics }`
+### My GitHub Insights & Stats
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=chinmay2705r&show_icons=true&theme=github_dark&hide=issues"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay2705r&theme=github-dark-blue"/>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmay2705r&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="YOUR_GITHUB_USERNAME" />
+
+<br>      
+<details>
+  <p align="center">
+    <a href="https://github.com/chinmay2705r">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmay2705r&theme=transparent" />
+    </a>
+    <a href="https://github.com/chinmay2705r">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay2705r&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/chinmay2705r">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chinmay2705r&theme=transparent" />
+    </a>
+  </p>
+</details>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# Contribution_Snake 
 
 <br/>
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=chinmay2705r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=C9D1D9&ring_color=6D28D9"/>
-&nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay2705r&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay2705r&theme=tokyonight&hide_border=true&background=0D1117&stroke=6D28D9&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&sideNums=A855F7&currStreakNum=C9D1D9"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## `{ github_trophies }`
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=chinmay2705r&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## `{ contribution_activity }`
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chinmay2705r&bg_color=0D1117&color=A855F7&line=7C3AED&point=8B5CF6&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Graph%20—%20Chinmay%20Kumar%20Gupta"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## ` Contribution_Snake `
-
-<br/>
-![GitHub Contribution Snake](https://raw.githubusercontent.com/chinmay2705r/chinmay2705r/output/github-contribution-grid-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinmay2705r/chinmay2705r/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinmay2705r/chinmay2705r/output/github-contribution-grid-snake.svg"/>
   <img alt="contribution-snake" src="https://raw.githubusercontent.com/chinmay2705r/chinmay2705r/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## `{ current_focus }`
-
-</div>
-
-```yaml
-# chinmay_kumar_gupta :: current_engineering_focus
-
-learning:
-  mathematics_for_ml:
-    - Statistics & Probability          # StatQuest with Josh Starmer
-    - Linear Algebra                    # 3Blue1Brown Essence of Linear Algebra
-    - Calculus fundamentals             # 3Blue1Brown Essence of Calculus
-
-  machine_learning:
-    - Deep Learning fundamentals        # fast.ai Practical Deep Learning
-    - Neural Networks & Backpropagation # 3Blue1Brown Neural Networks playlist
-    - NLP — tokenisation, TF-IDF, BERT  # HuggingFace LLM Course
-
-  programming:
-    - Advanced SQL — window functions, CTEs    # Kaggle + LeetCode SQL 50
-    - DSA daily practice in C++               # 1 LeetCode problem per day
-    - Python ML pipelines                     # scikit-learn, pandas, seaborn
-
-building:
-  active_projects:
-    - DSA solutions repository (C++)          # github.com/chinmay2705r/DSA-Solution-cpp
-    - KESCo substation fault analytics        # Python EDA + Excel KPI dashboards
-    - KESCO SIS clone                         # React + Node.js + MongoDB + JWT
-    - ML project portfolio expansion          # Kaggle datasets
-
-exploring:
-  ai_agents:
-    - LangChain — chains, memory, tools       # python.langchain.com/docs
-    - CrewAI — multi-agent systems            # deeplearning.ai short course
-    - HuggingFace smolagents                  # huggingface.co/learn/agents-course
-    - RAG pipelines — LlamaIndex + ChromaDB   # deeplearning.ai short course
-
-  cloud:
-    - Google Cloud fundamentals               # cloudskillsboost.google (free)
-    - Deployment — Streamlit Cloud            # streamlit.io/cloud
-
-open_to:
-  - Data Analytics internships
-  - ML Engineering internships
-  - Business Analytics roles
-  - Open source contributions — data and ML space
-  - Research collaboration — AI/ML applications
-```
-
-<br/>
-
----
-
-<div align="center">
-
-## `{ connect }`
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-chinmaykumargupta.2707%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaykumargupta.2707@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fchinmaykumargupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaykumargupta)
-
-[![GitHub](https://img.shields.io/badge/GitHub-github.com%2Fchinmay2705r-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmay2705r)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-leetcode.com%2Fu%2Fchinmay__2707rs-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chinmay_2707rs)
 
 </div>
 
