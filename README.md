@@ -120,8 +120,6 @@ I believe interpretability matters more than accuracy. Feature importance at 44%
 [![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://mongodb.com)
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://linux.org)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
@@ -311,7 +309,7 @@ KESCo is the primary electricity distribution utility for Kanpur city, operating
 |:---:|:---|
 | 🎓 **GATE 2026 Qualified** | Graduate Aptitude Test in Engineering — Computer Science & Engineering — National level |
 | 🤖 **Amazon ML Summer School 2026** | Shortlisted from thousands of applicants — SOP submitted |
-| 💻 **100+ DSA Problems Solved** | LeetCode & Striver SDE Sheet — C++ — Arrays · Strings · Trees · DP · Graphs |
+| 💻 **150+ DSA Problems Solved** | LeetCode + Codeforces — C++ — Arrays · Strings · Trees · DP · Graphs |
 | 📰 **PR Head — HBTU Herald** | University Annual Magazine — end-to-end publicity, stakeholder coordination, campus outreach |
 | 🎭 **Event Management Head** | Literary Sub Council — organised Hunkar'25 & Hunkar'26 + Kavya Sandhya |
 | 🏆 **Head Organiser — Aagaz'25** | Sports Sub Council — led hospitality operations for annual sports fest |
@@ -324,18 +322,6 @@ KESCo is the primary electricity distribution utility for Kanpur city, operating
 ---
 
 <div align="center">
-
-## `{ certifications }`
-
-</div>
-
-<div align="center">
-
-**— Google —**
-
-[![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/professional-certificates/google-data-analytics)
-
-<br/>
 
 **— Kaggle Learn —**
 
@@ -432,12 +418,11 @@ KESCo is the primary electricity distribution utility for Kanpur city, operating
 
 <div align="center">
 
-## `{ contribution_snake }`
+## ` Contribution_Snake `
 
 <br/>
-
+![GitHub Contribution Snake](https://raw.githubusercontent.com/chinmay2705r/chinmay2705r/output/github-contribution-grid-snake.svg)
 <picture>
-  ![GitHub Contribution Snake](https://raw.githubusercontent.com/chinmay2705r/chinmay2705r/output/github-contribution-grid-snake.svg)
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinmay2705r/chinmay2705r/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinmay2705r/chinmay2705r/output/github-contribution-grid-snake.svg"/>
   <img alt="contribution-snake" src="https://raw.githubusercontent.com/chinmay2705r/chinmay2705r/output/github-contribution-grid-snake-dark.svg" width="100%"/>
