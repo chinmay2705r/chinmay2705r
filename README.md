@@ -127,32 +127,6 @@ I am a Computer Science undergraduate who builds at the intersection of **data, 
 
 <div align="center">
 
-# AI_ML_Expertise
-
-</div>
-
-<div align="center">
-
-| Domain | Proficiency | Core Details |
-|:---|:---:|:---|
-| **Supervised Learning** | `████░` 80% | Logistic Regression · Decision Tree · Random Forest |
-| **Model Evaluation** | `████░` 80% | Accuracy · Precision · Recall · F1 · Confusion Matrix |
-| **Feature Engineering** | `███░░` 60% | Label Encoding · Feature Importance · Stratified Split |
-| **Exploratory Data Analysis** | `█████` 100% | Null handling · Distributions · Correlation · Outliers |
-| **Data Visualisation** | `█████` 100% | Matplotlib · Seaborn · 6-chart dashboards · KPI panels |
-| **Business Analytics** | `████░` 80% | KPI tracking · RFM Analysis · Pivot Dashboards · SUMIF |
-| **Unsupervised Learning** | `███░░` 60% | K-Means Clustering · PCA (conceptual) |
-| **Natural Language Processing** | `██░░░` 40% | Tokenisation · TF-IDF · Sentiment Analysis |
-| **Deep Learning** | `██░░░` 40% | Neural Networks · Backpropagation · fast.ai (learning) |
-| **LLMs & AI Agents** | `██░░░` 40% | Prompt Engineering · LangChain · HuggingFace smolagents |
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
 
 # Featured_Projects
 
@@ -253,12 +227,6 @@ A scatter plot of sales versus profit, coloured by discount level, revealed a cl
 
 KESCo is the primary electricity distribution utility for Kanpur city, operating **93 substations at 33kV**, **543 feeders**, **201 power transformers**, and serving **7 lakh+ consumers**. Currently contributing to the data analytics component of their Substation Information System (SIS) modernisation programme valued at **₹234 crore**.
 
-- Analysing fault log data, consumer complaint records, and outage histories for high-risk areas — Naubasta, Barra, Kidwai Nagar, and Ratanlal Nagar — to identify root causes of consumer dissatisfaction and operational bottlenecks
-- Engineering Python EDA pipelines to surface peak fault hours, top fault-prone feeders, transformer overloading patterns, and average outage duration across the distribution network
-- Building Excel and Python KPI dashboards tracking fault count, outage duration, complaint resolution time, and transformer load for supervisory reporting
-- Preparing structured substation and feeder seed data for MongoDB database as part of the SIS clone project using Python and Pandas
-- Proposing data-driven maintenance prioritisation and discount cap strategies grounded in correlation analysis
-
 <br/>
 
 <div align="center">
@@ -269,7 +237,6 @@ KESCo is the primary electricity distribution utility for Kanpur city, operating
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4DABCF?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA-7C3AED?style=flat-square)
 ![KPI Dashboards](https://img.shields.io/badge/KPI%20Dashboards-6D28D9?style=flat-square)
 ![Fault Analytics](https://img.shields.io/badge/Fault%20Analytics-4F46E5?style=flat-square)
@@ -282,26 +249,6 @@ KESCo is the primary electricity distribution utility for Kanpur city, operating
 
 <div align="center">
 
-# Achievements
-
-<br/>
-
-| Recognition | Details |
-|:---:|:---|
-| 🎓 **GATE 2026 Qualified** | Graduate Aptitude Test in Engineering — Computer Science & Engineering — National level |
-| 🤖 **Amazon ML Summer School 2026** | Shortlisted from thousands of applicants — SOP submitted |
-| 💻 **150+ DSA Problems Solved** | LeetCode + Codeforces — C++ — Arrays · Strings · Trees · DP · Graphs |
-| 📰 **PR Head — HBTU Herald** | University Annual Magazine — end-to-end publicity, stakeholder coordination, campus outreach |
-| 🎭 **Event Management Head** | Literary Sub Council — organised Hunkar'25 & Hunkar'26 + Kavya Sandhya |
-| 🏆 **Head Organiser — Aagaz'25** | Sports Sub Council — led hospitality operations for annual sports fest |
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
 
 **— Kaggle Learn —**
 
@@ -323,24 +270,6 @@ KESCo is the primary electricity distribution utility for Kanpur city, operating
 
 [![Business Analytics](https://img.shields.io/badge/Great%20Learning-Business%20Analytics%20for%20Beginners-E84393?style=for-the-badge&logoColor=white)](https://mygreatlearning.com/academy)
 [![Advanced Excel](https://img.shields.io/badge/Great%20Learning-Advanced%20Excel-E84393?style=for-the-badge&logoColor=white)](https://mygreatlearning.com/academy)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-# Coding_Profiles
-
-<br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-chinmay__2707rs%20%7C%20100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chinmay_2707rs)
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-chinmay2705r%20%7C%2036%2B%20Commits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmay2705r)
 
 </div>
 
