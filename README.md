@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Building+at+the+intersection+of+Data+%26+AI;GATE+2026+Qualified+%7C+100%2B+DSA+Solved;Data+Analytics+%7C+ML+Engineering+%7C+C%2B%2B+DSA;From+Raw+Data+to+Actionable+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Building+at+the+intersection+of+Data+%26+AI;Data+Analytics+%7C+ML+Engineering+%7C+C%2B%2B+DSA;From+Raw+Data+to+Actionable+Decisions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,16 +14,12 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍_Location-Kanpur%2C%20Uttar%20Pradesh%2C%20India-8B5CF6?style=flat-square&logoColor=white)
-
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaykumargupta)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaykumargupta.2707@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmay2705r)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chinmay_2707rs)
 
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chinmay2705r&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/chinmay2705r?style=for-the-badge&color=6D28D9&logo=github&label=FOLLOWERS)
@@ -38,19 +34,6 @@
 <div align="center">
 
 # About Me
-
-</div>
-
-```typescript
-  Name        : Chinmay Kumar Gupta
-  University  : Harcourt Butler Technical University (HBTU), Kanpur
-  Degree      : B.Tech — Computer Science & Engineering (2023–2027)
-  GATE        : GATE 2026 Qualified — Computer Science & Engineering
-  Internship  : Data Analytics Intern @ KESCo Kanpur (June 2026 – Present)
-  location    : Kanpur, Uttar Pradesh, India
-```
-
-<br/>
 
 I am a Computer Science undergraduate who builds at the intersection of **data, machine learning, and analytical engineering**. My work focuses on transforming raw operational data into decisions — through rigorous exploratory analysis, interpretable predictive models, and dashboards that communicate findings with clarity.
 <br/>
@@ -81,8 +64,6 @@ I am a Computer Science undergraduate who builds at the intersection of **data, 
 [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://cppreference.com)
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://mysql.com)
 
-<br/>
-
 ### — Data Science & Machine Learning —
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -91,15 +72,11 @@ I am a Computer Science undergraduate who builds at the intersection of **data, 
 ![Seaborn](https://img.shields.io/badge/Seaborn-4DABCF?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<br/>
-
 ### — Business Intelligence —
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-<br/>
 
 ### — Cloud, DevOps & Tooling —
 
@@ -111,17 +88,6 @@ I am a Computer Science undergraduate who builds at the intersection of **data, 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-<br/>
-
-### — DSA & Competitive Programming —
-
-![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Solved%20%7C%20C%2B%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Striver Sheet](https://img.shields.io/badge/Striver%20SDE%20Sheet-In%20Progress-6D28D9?style=for-the-badge&logoColor=white)
-
-</div>
-
-<br/>
 
 ---
 
