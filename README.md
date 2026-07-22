@@ -215,36 +215,6 @@ KESCo is the primary electricity distribution utility for Kanpur city, operating
 
 <div align="center">
 
-
-**— Kaggle Learn —**
-
-[![Python](https://img.shields.io/badge/Kaggle-Python-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/learn/python)
-[![Pandas](https://img.shields.io/badge/Kaggle-Pandas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/learn/pandas)
-[![SQL](https://img.shields.io/badge/Kaggle-Intro%20to%20SQL-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/learn/intro-to-sql)
-[![Machine Learning](https://img.shields.io/badge/Kaggle-Intro%20to%20Machine%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/learn/intro-to-machine-learning)
-[![Data Visualisation](https://img.shields.io/badge/Kaggle-Data%20Visualisation-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/learn/data-visualization)
-
-<br/>
-
-**— Hugging Face —**
-
-[![HF Agents Course](https://img.shields.io/badge/Hugging%20Face-Agents%20Course%20%7C%20In%20Progress-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/learn/agents-course)
-
-<br/>
-
-**— Great Learning —**
-
-[![Business Analytics](https://img.shields.io/badge/Great%20Learning-Business%20Analytics%20for%20Beginners-E84393?style=for-the-badge&logoColor=white)](https://mygreatlearning.com/academy)
-[![Advanced Excel](https://img.shields.io/badge/Great%20Learning-Advanced%20Excel-E84393?style=for-the-badge&logoColor=white)](https://mygreatlearning.com/academy)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ### My GitHub Insights & Stats
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=chinmay2705r&show_icons=true&theme=github_dark&hide=issues"/>
