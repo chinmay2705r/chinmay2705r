@@ -35,7 +35,7 @@
 
 # About Me
 
-I am a Computer Science undergraduate who builds at the intersection of **data, machine learning, and analytical engineering**. My work focuses on transforming raw operational data into decisions — through rigorous exploratory analysis, interpretable predictive models, and dashboards that communicate findings with clarity.
+I am a Computer Science undergraduate who builds at the intersection of **data, machine learning, and analytical engineering**. My work focuses on transforming raw operational data into decisions-through rigorous exploratory analysis, interpretable predictive models, and dashboards that communicate findings with clarity.
 <br/>
 
 <div align="center">
