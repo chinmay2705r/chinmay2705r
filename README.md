@@ -18,7 +18,7 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaykumargupta.2707@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmay2705r)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chinmay_2707rs)
-
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/chinmay.2707)
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chinmay2705r&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
